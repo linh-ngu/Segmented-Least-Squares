@@ -1,1 +1,1 @@
-# csce411
+# Segmented least squares
